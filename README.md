@@ -6,7 +6,7 @@
   <img src="https://github.com/Collector111/collector111/blob/main/Estudiante.png" alt="Encabezado"/>
 </p>
 
-Hola soy Collector111
+Hola soy Collector111, soy un estudiante en proceso de aprender nuevos lenguajes de programación para mi y acceder al mundo laboral tambien soy un friki en la privacidad.
 
 - Estudiante De DAM🌐​
 - Gamer👾​
