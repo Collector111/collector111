@@ -1,40 +1,33 @@
-# Encabezado 1
-## Encabezaado 2
-### Encabezado 3
-#### Encabezado 4
 
-***
+  <h1 align="center">Collector111</h1>
 
-> Esto es una cita
 
-> Esto es otra cita
+<p align="center">
+  <img src="https://github.com/Collector111/collector111/blob/main/Estudiante.png" alt="Encabezado"/>
+</p>
 
-> > Esto es una concatenación
+Hola soy Collector111
 
-***
+- Estudiante De DAM🌐​
+- Gamer👾​
+- Excreador de Contenido🎬​
 
-Listas:
+<img src="https://media1.tenor.com/m/2H3SNfJWzVEAAAAC/fate.gif" alt="GIF" align="center" width="900">
 
-- Elemento
-- otro elemento
-  - subelemento
+<p>
+  <h1 align="center">Titulos</h1>
+</p>
 
-***
+- E.S.O📚​
+- Tecnico en Sistemas Microinformaticos y Redes💻​
 
-*lo que queramos*
+<img src="https://media1.tenor.com/m/bwiTX_ZTFhoAAAAC/fate-apocrypha-power.gif" alt="GIF" align="center" width="900">
+<p>
+  <h1 align="center">Perfiles</h1>
+</p>
 
-**lo que queramos**
+- X:[Collector111](https://x.com/Sevagoth_111)
+- Youtube:[Collector111](https://www.youtube.com/@aitormarrerotorres6780)
+- Twitch:[Collector_III](https://www.twitch.tv/collector_iii)
 
-***lo que queramos***
-
-***
-
-[El texto que contiene el enlace](https://www.youtube.com/)
-
-![Logo surge](https://imgs.search.brave.com/Qssovwds1tRHnqL5xmZ-CzwbjV8Mqp71G_zzkFH51lQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmF3/bGh1Yi5jby93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8xMC9F/cGljX1N1cmdlLnBu/Zz92ZXI9MTcwMjUw/Mzg4Mg)
-
-<img src='https://imgs.search.brave.com/Qssovwds1tRHnqL5xmZ-CzwbjV8Mqp71G_zzkFH51lQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9icmF3/bGh1Yi5jby93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8xMC9F/cGljX1N1cmdlLnBu/Zz92ZXI9MTcwMjUw/Mzg4Mg' alt='Logo de surge' width='300px'/>
-
-```sql
-use biblioteca;
-```
+<img src="https://media1.tenor.com/m/R8s4EDMC8HsAAAAC/123.gif" alt="GIF" align="center" width="900">
