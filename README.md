@@ -8,7 +8,7 @@
 
 Hola soy Collector111, soy un estudiante en proceso de aprender nuevos lenguajes de programación para mi y acceder al mundo laboral tambien soy un friki en la privacidad.
 
-- Estudiante De DAM🌐​
+- Estudiante De DAW🌐​
 - Gamer👾​
 - Excreador de Contenido🎬​
 
