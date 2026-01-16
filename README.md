@@ -19,7 +19,7 @@ Hola soy Collector111, soy un estudiante en proceso de aprender nuevos lenguajes
 </p>
 
 - E.S.O📚​
-- Tecnico en Sistemas Microinformaticos y Redes💻​
+- Tecnico en Desarrollo de Aplicaciones web💻​
 
 <img src="https://media1.tenor.com/m/bwiTX_ZTFhoAAAAC/fate-apocrypha-power.gif" alt="GIF" align="center" width="900">
 <p>
